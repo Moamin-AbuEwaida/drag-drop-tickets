@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/drag-drop-tickets/static/css/main.9490b641.css",
+    "main.js": "/drag-drop-tickets/static/js/main.e27b889d.js",
+    "static/js/787.1aaeb280.chunk.js": "/drag-drop-tickets/static/js/787.1aaeb280.chunk.js",
+    "index.html": "/drag-drop-tickets/index.html",
+    "main.9490b641.css.map": "/drag-drop-tickets/static/css/main.9490b641.css.map",
+    "main.e27b889d.js.map": "/drag-drop-tickets/static/js/main.e27b889d.js.map",
+    "787.1aaeb280.chunk.js.map": "/drag-drop-tickets/static/js/787.1aaeb280.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9490b641.css",
+    "static/js/main.e27b889d.js"
+  ]
+}
